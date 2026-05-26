@@ -1,5 +1,6 @@
 News App :
 A simple Python CLI application that fetches and displays the latest news headlines by category using the NewsAPI.
+This project also demonstrates the use of Object-Oriented Programming (OOP) concepts such as classes and objects.
 
 Features:
 1. Fetch top headlines from different categories
@@ -18,8 +19,8 @@ Displays:
 9. science
 10. sports
 11. technology
+    
 Technologies Used:
-
 Python
 Requests Library
 Dotenv
@@ -66,16 +67,20 @@ Enter required category: technology
 --> Author Name: John Doe
 --> Source Name: TechCrunch
 --------------------------------------------------
-Requirements
-
+Requirements:
 Add this to requirements.txt:
-
 requests
 python-dotenv
-Concepts Practiced
-API handling
-JSON parsing
-Functions in Python
-Environment variables
-Loops and conditionals
-User input validation
+
+Concepts Practiced:
+1. API handling
+2. JSON parsing
+3. Functions in Python
+4. Environment variables
+5. Loops and conditionals
+6. User input validation
+7. Object-Oriented Programming (OOP)
+i. Classes
+ii. Objects
+iii. Methods
+iv. Encapsulation
